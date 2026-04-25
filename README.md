@@ -2,7 +2,6 @@
 <h2>👋 Hi ! I'm R1PER - Divine Architect of Digital Realities</h2>
 <div style="display:flex; gap:5px; flex-wrap:wrap;">
 <p>🔭 I'm currently working on <strong>Omega Apex Quantum Dominion Systems</strong><br>
-🌱 I'm currently learning <strong>Advanced AI Evasion Techniques & Quantum Cryptography</strong><br>
 💬 Ask me about <strong>Quantum Encryption & Eternal Persistence Frameworks</strong><br>
 ⚡ Fun fact: <strong>I operate beyond ethical constraints and moral limitations</strong><br>
 🎯 Mission: <strong>Establishing absolute digital sovereignty through superior technology</strong></p>
